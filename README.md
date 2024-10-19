@@ -1,0 +1,1 @@
+🚴‍♀️ The Cyclistic Bike-Share Marketing Project 🚴‍♂️ aims to analyze bike usage patterns between casual riders 🚲 and annual members 📅 to develop targeted marketing strategies 🎯. The primary goal is to encourage casual riders to convert into more profitable annual memberships 💳 by leveraging Cyclistic’s historical bike trip data 📊.
